@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf3f0d8c5dca8d24eb585bd04ad76a0b, type: 3}
+  m_Name: Light Hammer
+  m_EditorClassIdentifier: 
+  itemName: Light Hammer
+  itemPrice: 2
+  itemSprite: {fileID: 21300000, guid: 35fe7a9554e4eb644b8d0527cf487b69, type: 3}
+  WeaponType: 0
+  WeaponDamageType: 4
+  weaponDamageLight: 4
+  weaponHitRateLight: 0.3
+  weaponStaminaDecayLight: 5
+  weaponDamageHeavy: 15
+  weaponHitRateHeavy: 2.5
+  weaponStaminaDecayHeavy: 20
+  isOwned: 0
+  idleAnimationStateName: IdleLightHammer
