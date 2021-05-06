@@ -22,7 +22,7 @@ MonoBehaviour:
   weaponLightAttackRadius: 0.5
   weaponStaminaDecayLight: 15
   weaponDamageHeavy: 15
-  weaponHitRateHeavy: 1.25
+  weaponHitRateHeavy: 0
   weaponStaminaDecayHeavy: 20
   weaponHeavyAttackRadius: 0.75
   weaponHeavyMouseHold: 0.5

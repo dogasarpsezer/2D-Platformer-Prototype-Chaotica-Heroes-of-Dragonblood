@@ -88,7 +88,6 @@ public class PlayerAttack : MonoBehaviour
                 }
             }
         }
-
         //Weapon Light Attack rate will prevent spamming and every weapon will have its own attack delay
         if(!isAttackLight)
         {
