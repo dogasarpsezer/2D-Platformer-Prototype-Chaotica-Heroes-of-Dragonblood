@@ -19,9 +19,11 @@ MonoBehaviour:
   WeaponDamageType: 4
   weaponDamageLight: 4
   weaponHitRateLight: 0.3
-  weaponStaminaDecayLight: 5
+  weaponLightAttackRadius: 0.5
+  weaponStaminaDecayLight: 15
   weaponDamageHeavy: 15
-  weaponHitRateHeavy: 2.5
+  weaponHitRateHeavy: 1.25
   weaponStaminaDecayHeavy: 20
-  isOwned: 0
+  weaponHeavyAttackRadius: 0.75
+  weaponHeavyMouseHold: 0.5
   idleAnimationStateName: IdleLightHammer
