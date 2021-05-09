@@ -1,0 +1,1788 @@
+fileFormatVersion: 2
+guid: 65bf3427d86a96e48931c37795df0aec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -900606561798728380
+    second: LightAttack_R_LightHammer_0
+  - first:
+      213: -2607439660306783346
+    second: LightAttack_R_LightHammer_1
+  - first:
+      213: 9165961402904944023
+    second: LightAttack_R_LightHammer_2
+  - first:
+      213: 2211474756002797625
+    second: LightAttack_R_LightHammer_3
+  - first:
+      213: -803353831902420574
+    second: LightAttack_R_LightHammer_4
+  - first:
+      213: -204605840049575888
+    second: LightAttack_R_LightHammer_5
+  - first:
+      213: -7237715302078669952
+    second: LightAttack_R_LightHammer_6
+  - first:
+      213: -2691530655008252598
+    second: LightAttack_R_LightHammer_7
+  - first:
+      213: 8447251239751714019
+    second: LightAttack_R_LightHammer_8
+  - first:
+      213: -290045272415039721
+    second: LightAttack_R_LightHammer_9
+  - first:
+      213: 3801240673019886193
+    second: LightAttack_R_LightHammer_10
+  - first:
+      213: -5163286251240819583
+    second: LightAttack_R_LightHammer_11
+  - first:
+      213: -2681543462041333209
+    second: LightAttack_R_LightHammer_12
+  - first:
+      213: -4786878013546804432
+    second: LightAttack_R_LightHammer_13
+  - first:
+      213: 183718497327963273
+    second: LightAttack_R_LightHammer_14
+  - first:
+      213: 8190032581971984606
+    second: LightAttack_R_LightHammer_15
+  - first:
+      213: 2145451550437378547
+    second: LightAttack_R_LightHammer_16
+  - first:
+      213: 2699189532548563266
+    second: LightAttack_R_LightHammer_17
+  - first:
+      213: -4469823236385664637
+    second: LightAttack_R_LightHammer_18
+  - first:
+      213: -1149648895643686811
+    second: LightAttack_R_LightHammer_19
+  - first:
+      213: -58829718127546704
+    second: LightAttack_R_LightHammer_20
+  - first:
+      213: 1878227251231821099
+    second: LightAttack_R_LightHammer_21
+  - first:
+      213: 8419396675509758742
+    second: LightAttack_R_LightHammer_22
+  - first:
+      213: 6693639548892207584
+    second: LightAttack_R_LightHammer_23
+  - first:
+      213: -9088057098406878559
+    second: LightAttack_R_LightHammer_24
+  - first:
+      213: 2886902841232994196
+    second: LightAttack_R_LightHammer_25
+  - first:
+      213: -7854936158391827617
+    second: LightAttack_R_LightHammer_26
+  - first:
+      213: 7660905156177290310
+    second: LightAttack_R_LightHammer_27
+  - first:
+      213: 5969324280385004676
+    second: LightAttack_R_LightHammer_28
+  - first:
+      213: -5725186211701365131
+    second: LightAttack_R_LightHammer_29
+  - first:
+      213: 4557246650249144724
+    second: LightAttack_R_LightHammer_30
+  - first:
+      213: 3498928870956011190
+    second: LightAttack_R_LightHammer_31
+  - first:
+      213: -4716620126673871950
+    second: LightAttack_R_LightHammer_32
+  - first:
+      213: 8556347033127492529
+    second: LightAttack_R_LightHammer_33
+  - first:
+      213: 7082714466863062973
+    second: LightAttack_R_LightHammer_34
+  - first:
+      213: 135361178975824585
+    second: LightAttack_R_LightHammer_35
+  - first:
+      213: 2477801967372716940
+    second: LightAttack_R_LightHammer_36
+  - first:
+      213: 7936760417116166789
+    second: LightAttack_R_LightHammer_37
+  - first:
+      213: 3732413619631464954
+    second: LightAttack_R_LightHammer_38
+  - first:
+      213: -3120065929245526546
+    second: LightAttack_R_LightHammer_39
+  - first:
+      213: 2247322581173174758
+    second: LightAttack_R_LightHammer_40
+  - first:
+      213: -2903887324988377497
+    second: LightAttack_R_LightHammer_41
+  - first:
+      213: 681953969236096516
+    second: LightAttack_R_LightHammer_42
+  - first:
+      213: -4065006362030713601
+    second: LightAttack_R_LightHammer_43
+  - first:
+      213: -6177112107986270559
+    second: LightAttack_R_LightHammer_44
+  - first:
+      213: -3361309577314672224
+    second: LightAttack_R_LightHammer_45
+  - first:
+      213: -3426417570776484517
+    second: LightAttack_R_LightHammer_46
+  - first:
+      213: 4010633041377925262
+    second: LightAttack_R_LightHammer_47
+  - first:
+      213: 3160394081359995275
+    second: LightAttack_R_LightHammer_48
+  - first:
+      213: 7109382494338624901
+    second: LightAttack_R_LightHammer_49
+  - first:
+      213: -8177307793240996701
+    second: LightAttack_R_LightHammer_50
+  - first:
+      213: -3912033774246107520
+    second: LightAttack_R_LightHammer_51
+  - first:
+      213: 2756537907613682707
+    second: LightAttack_R_LightHammer_52
+  - first:
+      213: -2509107656411355001
+    second: LightAttack_R_LightHammer_53
+  - first:
+      213: -9120118394642215450
+    second: LightAttack_R_LightHammer_54
+  - first:
+      213: -4079996490638867619
+    second: LightAttack_R_LightHammer_55
+  - first:
+      213: -5857922610613999991
+    second: LightAttack_R_LightHammer_56
+  - first:
+      213: -8393530232729023848
+    second: LightAttack_R_LightHammer_57
+  - first:
+      213: 7449197439964657226
+    second: LightAttack_R_LightHammer_58
+  - first:
+      213: 3351880612717239029
+    second: LightAttack_R_LightHammer_59
+  - first:
+      213: 4838893399464515465
+    second: LightAttack_R_LightHammer_60
+  - first:
+      213: 384911099682320843
+    second: LightAttack_R_LightHammer_61
+  - first:
+      213: 3666547771674441109
+    second: LightAttack_R_LightHammer_62
+  - first:
+      213: 871254536939574063
+    second: LightAttack_R_LightHammer_63
+  - first:
+      213: -600665304020123753
+    second: LightAttack_R_LightHammer_64
+  - first:
+      213: -3964252368626070664
+    second: LightAttack_R_LightHammer_65
+  - first:
+      213: 3427812387855996284
+    second: LightAttack_R_LightHammer_66
+  - first:
+      213: 6462838182518244305
+    second: LightAttack_R_LightHammer_67
+  - first:
+      213: -8367872348331372053
+    second: LightAttack_R_LightHammer_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445d9998a176083f0800000000000000
+      internalID: -900606561798728380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83262a917380dbd0800000000000000
+      internalID: -2607439660306783346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d17152559043f70800000000000000
+      internalID: 9165961402904944023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9385a4dd29cb0be10800000000000000
+      internalID: 2211474756002797625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e18c32f9e9d4f0800000000000000
+      internalID: -803353831902420574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038efd09218192df0800000000000000
+      internalID: -204605840049575888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b1132a7487e8b90800000000000000
+      internalID: -7237715302078669952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d982e2123c5aad0800000000000000
+      internalID: -2691530655008252598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e401e14f3aaa3570800000000000000
+      internalID: 8447251239751714019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f8be88c5d89fbf0800000000000000
+      internalID: -290045272415039721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17afd159048b0c430800000000000000
+      internalID: 3801240673019886193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_11
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184f121c2825858b0800000000000000
+      internalID: -5163286251240819583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_12
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722514fbd6e39cad0800000000000000
+      internalID: -2681543462041333209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b4a630fc7919db0800000000000000
+      internalID: -4786878013546804432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_14
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cd6ebfff2bc8200800000000000000
+      internalID: 183718497327963273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_15
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 0
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c05b9d37d8a170800000000000000
+      internalID: 8190032581971984606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_16
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 0
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f981aa61dc26cd10800000000000000
+      internalID: 2145451550437378547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_17
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 0
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24182053492757520800000000000000
+      internalID: 2699189532548563266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_18
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 0
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381127ad27ff7f1c0800000000000000
+      internalID: -4469823236385664637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_19
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 0
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568ecb6ab60ab00f0800000000000000
+      internalID: -1149648895643686811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_20
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 0
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be65ccdeaefe2ff0800000000000000
+      internalID: -58829718127546704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_21
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 0
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d8125dbbdc01a10800000000000000
+      internalID: 1878227251231821099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_22
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 0
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b2dd22ba4b7d470800000000000000
+      internalID: 8419396675509758742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_23
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 0
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9d93e84b594ec50800000000000000
+      internalID: 6693639548892207584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_24
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 0
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2adf6383cb0e180800000000000000
+      internalID: -9088057098406878559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_25
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 0
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f22c0b6d6501820800000000000000
+      internalID: 2886902841232994196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_26
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f530fa16e29adf290800000000000000
+      internalID: -7854936158391827617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_27
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 0
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644e7eb76a0015a60800000000000000
+      internalID: 7660905156177290310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_28
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 0
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48466716ecc47d250800000000000000
+      internalID: 5969324280385004676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_29
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576639a497d0c80b0800000000000000
+      internalID: -5725186211701365131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_30
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 0
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49960fddea79e3f30800000000000000
+      internalID: 4557246650249144724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_31
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be01bf1541be8030800000000000000
+      internalID: 3498928870956011190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_32
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 0
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb55290cf23b8eb0800000000000000
+      internalID: -4716620126673871950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_33
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 0
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb188c0b404eb670800000000000000
+      internalID: 8556347033127492529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_34
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 0
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf94e2284bda4260800000000000000
+      internalID: 7082714466863062973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_35
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 0
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca6b3d6646e0e100800000000000000
+      internalID: 135361178975824585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_36
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 0
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bc309e2cbe26220800000000000000
+      internalID: 2477801967372716940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_37
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 0
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a17917c89052e60800000000000000
+      internalID: 7936760417116166789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_38
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a6f079623cc330800000000000000
+      internalID: 3732413619631464954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_39
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 0
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee57583719c43b4d0800000000000000
+      internalID: -3120065929245526546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_40
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 0
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e18a821bf7103f10800000000000000
+      internalID: 2247322581173174758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_41
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766fe460dd153b7d0800000000000000
+      internalID: -2903887324988377497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_42
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4063c799589c67900800000000000000
+      internalID: 681953969236096516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_43
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 0
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4d47540423697c0800000000000000
+      internalID: -4065006362030713601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_44
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 0
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6c6b9f34d764aa0800000000000000
+      internalID: -6177112107986270559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_45
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 0
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a16a089fba3a51d0800000000000000
+      internalID: -3361309577314672224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_46
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f5b19f5be270d0800000000000000
+      internalID: -3426417570776484517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_47
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8896cb7081a8a730800000000000000
+      internalID: 4010633041377925262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_48
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81a5b92ca9fbdb20800000000000000
+      internalID: 3160394081359995275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_49
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d2f6326b999a260800000000000000
+      internalID: 7109382494338624901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_50
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a446d423ed548e80800000000000000
+      internalID: -8177307793240996701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_51
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086eab8520aa5b9c0800000000000000
+      internalID: -3912033774246107520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_52
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c46394f90314620800000000000000
+      internalID: 2756537907613682707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_53
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788636c51ebdd2dd0800000000000000
+      internalID: -2509107656411355001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_54
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed48d9f3a4de6180800000000000000
+      internalID: -9120118394642215450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_55
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5341aafec0f067c0800000000000000
+      internalID: -4079996490638867619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_56
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986af981c6a74bea0800000000000000
+      internalID: -5857922610613999991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_57
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a4fa269b0348b80800000000000000
+      internalID: -8393530232729023848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_58
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46b7d6aa9dd06760800000000000000
+      internalID: 7449197439964657226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_59
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa978288a5448e20800000000000000
+      internalID: 3351880612717239029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_60
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9879015c8e3372340800000000000000
+      internalID: 4838893399464515465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_61
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc17ba61b9a775500800000000000000
+      internalID: 384911099682320843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_62
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595b7aaa5c132e230800000000000000
+      internalID: 3666547771674441109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_63
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f231b3f9261571c00800000000000000
+      internalID: 871254536939574063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_64
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f7af4a6120aa7f0800000000000000
+      internalID: -600665304020123753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_65
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bca0869752cf8c0800000000000000
+      internalID: -3964252368626070664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_66
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7517d69439029f20800000000000000
+      internalID: 3427812387855996284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_67
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c4ddd51d90b950800000000000000
+      internalID: 6462838182518244305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightAttack_R_LightHammer_68
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 0
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be115ef1f685fdb80800000000000000
+      internalID: -8367872348331372053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

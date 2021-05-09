@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: 2dd72b1b5f3b3f74c924597ecc057572
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 585305475383370889
+    second: Idle_R_LightHammer_0
+  - first:
+      213: -6849584089080106788
+    second: Idle_R_LightHammer_1
+  - first:
+      213: 6553449847440250037
+    second: Idle_R_LightHammer_2
+  - first:
+      213: 948691597002014128
+    second: Idle_R_LightHammer_3
+  - first:
+      213: 4326613766727852489
+    second: Idle_R_LightHammer_4
+  - first:
+      213: 653546340293675502
+    second: Idle_R_LightHammer_5
+  - first:
+      213: 4038501971368211951
+    second: Idle_R_LightHammer_6
+  - first:
+      213: -7334387412351790110
+    second: Idle_R_LightHammer_7
+  - first:
+      213: -9109701873537593738
+    second: Idle_R_LightHammer_8
+  - first:
+      213: -8709422790989568033
+    second: Idle_R_LightHammer_9
+  - first:
+      213: 1076612524185080865
+    second: Idle_R_LightHammer_10
+  - first:
+      213: 1619758830637844868
+    second: Idle_R_LightHammer_11
+  - first:
+      213: -5340267774583134487
+    second: Idle_R_LightHammer_12
+  - first:
+      213: -6559940761408655256
+    second: Idle_R_LightHammer_13
+  - first:
+      213: 2372711371115651217
+    second: Idle_R_LightHammer_14
+  - first:
+      213: -488471204905431507
+    second: Idle_R_LightHammer_15
+  - first:
+      213: 8550977702295341397
+    second: Idle_R_LightHammer_16
+  - first:
+      213: -8873958899366194463
+    second: Idle_R_LightHammer_17
+  - first:
+      213: 9131053952465625854
+    second: Idle_R_LightHammer_18
+  - first:
+      213: -1512724834286453746
+    second: Idle_R_LightHammer_19
+  - first:
+      213: -3560328420425210075
+    second: Idle_R_LightHammer_20
+  - first:
+      213: 1239231893110920184
+    second: Idle_R_LightHammer_21
+  - first:
+      213: 6482367972923978128
+    second: Idle_R_LightHammer_22
+  - first:
+      213: -9103448612527205402
+    second: Idle_R_LightHammer_23
+  - first:
+      213: 3649808661962229214
+    second: Idle_R_LightHammer_24
+  - first:
+      213: 6890089603313420850
+    second: Idle_R_LightHammer_25
+  - first:
+      213: 2962728845575440943
+    second: Idle_R_LightHammer_26
+  - first:
+      213: -8853518481532803252
+    second: Idle_R_LightHammer_27
+  - first:
+      213: 6809002264917828144
+    second: Idle_R_LightHammer_28
+  - first:
+      213: -3740944847664374979
+    second: Idle_R_LightHammer_29
+  - first:
+      213: -776509626628415250
+    second: Idle_R_LightHammer_30
+  - first:
+      213: 3033859768062060807
+    second: Idle_R_LightHammer_31
+  - first:
+      213: 8587501304474772647
+    second: Idle_R_LightHammer_32
+  - first:
+      213: -8945040214953999180
+    second: Idle_R_LightHammer_33
+  - first:
+      213: 3758374172808982278
+    second: Idle_R_LightHammer_34
+  - first:
+      213: -909779036306005065
+    second: Idle_R_LightHammer_35
+  - first:
+      213: -8245307789018062567
+    second: Idle_R_LightHammer_36
+  - first:
+      213: -6246405381906371366
+    second: Idle_R_LightHammer_37
+  - first:
+      213: 740273262085566754
+    second: Idle_R_LightHammer_38
+  - first:
+      213: 2389121492863119291
+    second: Idle_R_LightHammer_39
+  - first:
+      213: 204701729457657072
+    second: Idle_R_LightHammer_40
+  - first:
+      213: 2013605201841870154
+    second: Idle_R_LightHammer_41
+  - first:
+      213: -3702945478089017156
+    second: Idle_R_LightHammer_42
+  - first:
+      213: 3130613152897815790
+    second: Idle_R_LightHammer_43
+  - first:
+      213: -7294994025626267585
+    second: Idle_R_LightHammer_44
+  - first:
+      213: -4935480520336665209
+    second: Idle_R_LightHammer_45
+  - first:
+      213: -1090042491313814982
+    second: Idle_R_LightHammer_46
+  - first:
+      213: 3798789930574746350
+    second: Idle_R_LightHammer_47
+  - first:
+      213: -503145723499510530
+    second: Idle_R_LightHammer_48
+  - first:
+      213: -6917892813488315308
+    second: Idle_R_LightHammer_49
+  - first:
+      213: 6491133188940460580
+    second: Idle_R_LightHammer_50
+  - first:
+      213: -5678727764435901307
+    second: Idle_R_LightHammer_51
+  - first:
+      213: -1665444212428755417
+    second: Idle_R_LightHammer_52
+  - first:
+      213: -1942978833057344329
+    second: Idle_R_LightHammer_53
+  - first:
+      213: -5316188022088014030
+    second: Idle_R_LightHammer_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98421519a3c6f1800800000000000000
+      internalID: 585305475383370889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd07637cf8361f0a0800000000000000
+      internalID: -6849584089080106788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b493022ae782fa50800000000000000
+      internalID: 6553449847440250037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdf3b82bfd6a2d00800000000000000
+      internalID: 948691597002014128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1e0262c483b0c30800000000000000
+      internalID: 4326613766727852489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee906711fecd11900800000000000000
+      internalID: 653546340293675502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5fd146524ab0830800000000000000
+      internalID: 4038501971368211951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3dca9f185073a90800000000000000
+      internalID: -7334387412351790110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ec41a4966d39180800000000000000
+      internalID: -9109701873537593738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd72068bd1ae12780800000000000000
+      internalID: -8709422790989568033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124d9c8f265e0fe00800000000000000
+      internalID: 1076612524185080865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_11
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48988f9131a8a7610800000000000000
+      internalID: 1619758830637844868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_12
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6a182c0ce83e5b0800000000000000
+      internalID: -5340267774583134487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_13
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860b1a032a866f4a0800000000000000
+      internalID: -6559940761408655256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_14
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190e0edbb609de020800000000000000
+      internalID: 2372711371115651217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_15
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eca94f60a9839f0800000000000000
+      internalID: -488471204905431507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_16
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559899b4aec2ba670800000000000000
+      internalID: 8550977702295341397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_17
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e29cd3b56d59d480800000000000000
+      internalID: -8873958899366194463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_18
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2e3adf03508be70800000000000000
+      internalID: 9131053952465625854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_19
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cb17927c8b10be0800000000000000
+      internalID: -1512724834286453746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_20
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527e3d04a2c279ec0800000000000000
+      internalID: -3560328420425210075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_21
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3163f47d2a23110800000000000000
+      internalID: 1239231893110920184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_22
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091b089835ff5f950800000000000000
+      internalID: 6482367972923978128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_23
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e31b4318bd0aa180800000000000000
+      internalID: -9103448612527205402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_24
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5076af3a9b6a230800000000000000
+      internalID: 3649808661962229214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_25
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23acb1c2df38e9f50800000000000000
+      internalID: 6890089603313420850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_26
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ac356103abd1920800000000000000
+      internalID: 2962728845575440943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_27
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47a1e759dbf12580800000000000000
+      internalID: -8853518481532803252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_28
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032e14bfb7f6e7e50800000000000000
+      internalID: 6809002264917828144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_29
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b13ae3b7e751cc0800000000000000
+      internalID: -3740944847664374979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_30
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee06424db984935f0800000000000000
+      internalID: -776509626628415250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_31
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70920bd826f6a1a20800000000000000
+      internalID: 3033859768062060807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_32
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a42c6910feec2770800000000000000
+      internalID: 8587501304474772647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_33
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4451e3155dcd380800000000000000
+      internalID: -8945040214953999180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_34
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f284fb56d682430800000000000000
+      internalID: 3758374172808982278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_35
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b322e469c0df53f0800000000000000
+      internalID: -909779036306005065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_36
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91121db5048c29d80800000000000000
+      internalID: -8245307789018062567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_37
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adce168666f4059a0800000000000000
+      internalID: -6246405381906371366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_38
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22174571c9af54a00800000000000000
+      internalID: 740273262085566754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_39
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf6b53f65dd72120800000000000000
+      internalID: 2389121492863119291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_40
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f45b3d632f37d200800000000000000
+      internalID: 204701729457657072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_41
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45d9a53343c1fb10800000000000000
+      internalID: 2013605201841870154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_42
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb87ddbe4be7c9cc0800000000000000
+      internalID: -3702945478089017156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_43
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4d3ab631c227b20800000000000000
+      internalID: 3130613152897815790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_44
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3013ff8599f2ca90800000000000000
+      internalID: -7294994025626267585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_45
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7851975bd96a18bb0800000000000000
+      internalID: -4935480520336665209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_46
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32882321246fd0f0800000000000000
+      internalID: -1090042491313814982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_47
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee21d34a05308b430800000000000000
+      internalID: 3798789930574746350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_48
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef40e8851a77409f0800000000000000
+      internalID: -503145723499510530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_49
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4542dc18325beff90800000000000000
+      internalID: -6917892813488315308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_50
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4227b8c6e33251a50800000000000000
+      internalID: 6491133188940460580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_51
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58466a87f2b1131b0800000000000000
+      internalID: -5678727764435901307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_52
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e24fc005723e8e0800000000000000
+      internalID: -1665444212428755417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_53
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b49381bb072905e0800000000000000
+      internalID: -1942978833057344329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_R_LightHammer_54
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237e148092b1936b0800000000000000
+      internalID: -5316188022088014030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

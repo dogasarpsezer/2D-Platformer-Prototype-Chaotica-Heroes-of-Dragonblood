@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: 01be197be4edf7d40a1e658cced659bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8638713971423961226
+    second: LandingLightHammer_0
+  - first:
+      213: 4698066148143887318
+    second: LandingLightHammer_1
+  - first:
+      213: -2148686238947943223
+    second: LandingLightHammer_2
+  - first:
+      213: 7649331112902555961
+    second: LandingLightHammer_3
+  - first:
+      213: -8631838716703089317
+    second: LandingLightHammer_4
+  - first:
+      213: 4218748278018112694
+    second: LandingLightHammer_5
+  - first:
+      213: 2620559743775587516
+    second: LandingLightHammer_6
+  - first:
+      213: -6384300725773892089
+    second: LandingLightHammer_7
+  - first:
+      213: -4363252762643528953
+    second: LandingLightHammer_8
+  - first:
+      213: 4354230268602312352
+    second: LandingLightHammer_9
+  - first:
+      213: 6552679501799863999
+    second: LandingLightHammer_10
+  - first:
+      213: 9114834722038679723
+    second: LandingLightHammer_11
+  - first:
+      213: -3402655488992695804
+    second: LandingLightHammer_12
+  - first:
+      213: -1705178421107064686
+    second: LandingLightHammer_13
+  - first:
+      213: 1177992164178142542
+    second: LandingLightHammer_14
+  - first:
+      213: 8445568456282320847
+    second: LandingLightHammer_15
+  - first:
+      213: -1650168059500917842
+    second: LandingLightHammer_16
+  - first:
+      213: 3080433784748038033
+    second: LandingLightHammer_17
+  - first:
+      213: -6689293699063917306
+    second: LandingLightHammer_18
+  - first:
+      213: -7395576721369418285
+    second: LandingLightHammer_19
+  - first:
+      213: -3890621380782744773
+    second: LandingLightHammer_20
+  - first:
+      213: 2030983870465162194
+    second: LandingLightHammer_21
+  - first:
+      213: 4167924142781786428
+    second: LandingLightHammer_22
+  - first:
+      213: 715877645513682453
+    second: LandingLightHammer_23
+  - first:
+      213: 2743264872164125584
+    second: LandingLightHammer_24
+  - first:
+      213: -8266101516900860343
+    second: LandingLightHammer_25
+  - first:
+      213: -5068075741959993005
+    second: LandingLightHammer_26
+  - first:
+      213: 2365357369311366492
+    second: LandingLightHammer_27
+  - first:
+      213: -9138648800102697203
+    second: LandingLightHammer_28
+  - first:
+      213: -7366648438003740845
+    second: LandingLightHammer_29
+  - first:
+      213: -636368443649079243
+    second: LandingLightHammer_30
+  - first:
+      213: -8813196360617875507
+    second: LandingLightHammer_31
+  - first:
+      213: 7344672543680243020
+    second: LandingLightHammer_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LandingLightHammer_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f1211b96f1d1880800000000000000
+      internalID: -8638713971423961226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 11
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d377633542e23140800000000000000
+      internalID: 4698066148143887318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 9
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccdcb9ff355e22e0800000000000000
+      internalID: -2148686238947943223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93976e98e12e72a60800000000000000
+      internalID: 7649331112902555961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 6
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dd27cab6c853880800000000000000
+      internalID: -8631838716703089317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc7f0cf4310c8a30800000000000000
+      internalID: 4218748278018112694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcbe60e3391e5420800000000000000
+      internalID: 2620559743775587516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7068afcb0586667a0800000000000000
+      internalID: -6384300725773892089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7030469dabc9273c0800000000000000
+      internalID: -4363252762643528953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 4
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a66b4e0c555d6c30800000000000000
+      internalID: 4354230268602312352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 7
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6b3cf0a4bcfea50800000000000000
+      internalID: 6552679501799863999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 8
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8038123e56e7e70800000000000000
+      internalID: 9114834722038679723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 9
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aae8d5cd657c0d0800000000000000
+      internalID: -3402655488992695804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_13
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 10
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290804ba24df558e0800000000000000
+      internalID: -1705178421107064686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_14
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 11
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45280ec1a1195010800000000000000
+      internalID: 1177992164178142542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_15
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 11
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfa3f2b3cfa43570800000000000000
+      internalID: 8445568456282320847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_16
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 10
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab80c194ec6919e0800000000000000
+      internalID: -1650168059500917842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_17
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 9
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197d406d436efba20800000000000000
+      internalID: 3080433784748038033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_18
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 8
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605590572dada23a0800000000000000
+      internalID: -6689293699063917306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_19
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 6
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5b0a5c722ad5990800000000000000
+      internalID: -7395576721369418285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_20
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 5
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b97e2b77cb10ac0800000000000000
+      internalID: -3890621380782744773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_21
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 3
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbbf9fc1118f2c10800000000000000
+      internalID: 2030983870465162194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_22
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39684ddce077d930800000000000000
+      internalID: 4167924142781786428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_23
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e6c7bfcee4fe900800000000000000
+      internalID: 715877645513682453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_24
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b6626edd8021620800000000000000
+      internalID: 2743264872164125584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_25
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e7ecf4778e84d80800000000000000
+      internalID: -8266101516900860343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_26
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 0
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35943b9e6f39aa9b0800000000000000
+      internalID: -5068075741959993005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_27
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d08a4ceff63d020800000000000000
+      internalID: 2365357369311366492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_28
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0734deb55ffc2180800000000000000
+      internalID: -9138648800102697203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_29
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fc99b964864c990800000000000000
+      internalID: -7366648438003740845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_30
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538470aa54a2b27f0800000000000000
+      internalID: -636368443649079243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_31
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc72b95ba9c31b580800000000000000
+      internalID: -8813196360617875507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingLightHammer_32
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4520a5c3c48de560800000000000000
+      internalID: 7344672543680243020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

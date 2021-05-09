@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: bc991a35788760947a298183c1ab338a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8441922060619153870
+    second: Dodge_R_LightHammer_0
+  - first:
+      213: -7408950918132531708
+    second: Dodge_R_LightHammer_1
+  - first:
+      213: 1124753411052729269
+    second: Dodge_R_LightHammer_2
+  - first:
+      213: -1046891547684081053
+    second: Dodge_R_LightHammer_3
+  - first:
+      213: 6917815715301287384
+    second: Dodge_R_LightHammer_4
+  - first:
+      213: -5132232174750747220
+    second: Dodge_R_LightHammer_5
+  - first:
+      213: 8888982089498427280
+    second: Dodge_R_LightHammer_6
+  - first:
+      213: 2742167323398821940
+    second: Dodge_R_LightHammer_7
+  - first:
+      213: 5754324180999939285
+    second: Dodge_R_LightHammer_8
+  - first:
+      213: -4980504948208858596
+    second: Dodge_R_LightHammer_9
+  - first:
+      213: 4575884890312946304
+    second: Dodge_R_LightHammer_10
+  - first:
+      213: -7563992048392901936
+    second: Dodge_R_LightHammer_11
+  - first:
+      213: 1674675945028317158
+    second: Dodge_R_LightHammer_12
+  - first:
+      213: 8234751293892082790
+    second: Dodge_R_LightHammer_13
+  - first:
+      213: 1896563333980265397
+    second: Dodge_R_LightHammer_14
+  - first:
+      213: 7194033003232513144
+    second: Dodge_R_LightHammer_15
+  - first:
+      213: 3580172680307372339
+    second: Dodge_R_LightHammer_16
+  - first:
+      213: -3208380543602417925
+    second: Dodge_R_LightHammer_17
+  - first:
+      213: 5080920395127811908
+    second: Dodge_R_LightHammer_18
+  - first:
+      213: 4868856522612186613
+    second: Dodge_R_LightHammer_19
+  - first:
+      213: -6668837188802410679
+    second: Dodge_R_LightHammer_20
+  - first:
+      213: 77979766441478053
+    second: Dodge_R_LightHammer_21
+  - first:
+      213: -7114638501067043997
+    second: Dodge_R_LightHammer_22
+  - first:
+      213: 2828303700674423968
+    second: Dodge_R_LightHammer_23
+  - first:
+      213: -4772062107951467272
+    second: Dodge_R_LightHammer_24
+  - first:
+      213: 4406781920449720035
+    second: Dodge_R_LightHammer_25
+  - first:
+      213: -7788587397327228829
+    second: Dodge_R_LightHammer_26
+  - first:
+      213: -1811958525272874586
+    second: Dodge_R_LightHammer_27
+  - first:
+      213: -4345876437589407343
+    second: Dodge_R_LightHammer_28
+  - first:
+      213: 4243947748249215101
+    second: Dodge_R_LightHammer_29
+  - first:
+      213: 943361384033227009
+    second: Dodge_R_LightHammer_30
+  - first:
+      213: -4204442252686695185
+    second: Dodge_R_LightHammer_31
+  - first:
+      213: -2790959234505440146
+    second: Dodge_R_LightHammer_32
+  - first:
+      213: 2937956450377862772
+    second: Dodge_R_LightHammer_33
+  - first:
+      213: 4752890118510538429
+    second: Dodge_R_LightHammer_34
+  - first:
+      213: -8476710435682165009
+    second: Dodge_R_LightHammer_35
+  - first:
+      213: 5556471024612740490
+    second: Dodge_R_LightHammer_36
+  - first:
+      213: 8191602349208489583
+    second: Dodge_R_LightHammer_37
+  - first:
+      213: 1400656327755084169
+    second: Dodge_R_LightHammer_38
+  - first:
+      213: -5916046485668312623
+    second: Dodge_R_LightHammer_39
+  - first:
+      213: -3373539701375466674
+    second: Dodge_R_LightHammer_40
+  - first:
+      213: -7841514530038877051
+    second: Dodge_R_LightHammer_41
+  - first:
+      213: -5646082844436177187
+    second: Dodge_R_LightHammer_42
+  - first:
+      213: -1316128171718896101
+    second: Dodge_R_LightHammer_43
+  - first:
+      213: -2647855550534204631
+    second: Dodge_R_LightHammer_44
+  - first:
+      213: -6845004516938030446
+    second: Dodge_R_LightHammer_45
+  - first:
+      213: 4826698700705381764
+    second: Dodge_R_LightHammer_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec10dbc036bb72570800000000000000
+      internalID: 8441922060619153870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ef76ee46e1e2990800000000000000
+      internalID: -7408950918132531708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f4b5a44deb9f00800000000000000
+      internalID: 1124753411052729269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3627eed1fa1b871f0800000000000000
+      internalID: -1046891547684081053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5e52cadb4010060800000000000000
+      internalID: 6917815715301287384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5b62f5706a6c8b0800000000000000
+      internalID: -5132232174750747220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ffc535d120c5b70800000000000000
+      internalID: 8888982089498427280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ded9e6a22e0620800000000000000
+      internalID: 2742167323398821940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d421fada577bdf40800000000000000
+      internalID: 5754324180999939285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a8fef2321b1eab0800000000000000
+      internalID: -4980504948208858596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0823e2c401fc08f30800000000000000
+      internalID: 4575884890312946304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 0
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da69a7ce4d470790800000000000000
+      internalID: -7563992048392901936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efed4136e4ad3710800000000000000
+      internalID: 1674675945028317158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_13
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c30261ca6b74270800000000000000
+      internalID: 8234751293892082790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_14
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb9ce7cd42f15a10800000000000000
+      internalID: 1896563333980265397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_15
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c4c1c96e656d360800000000000000
+      internalID: 7194033003232513144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_16
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331774c85145fa130800000000000000
+      internalID: 3580172680307372339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_17
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 0
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe9d42f4ea8973d0800000000000000
+      internalID: -3208380543602417925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_18
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f61a3fd2e038640800000000000000
+      internalID: 5080920395127811908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_19
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd94a40637a19340800000000000000
+      internalID: 4868856522612186613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_20
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 0
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9478488e8e78373a0800000000000000
+      internalID: -6668837188802410679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_21
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 0
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a789663f2a051100800000000000000
+      internalID: 77979766441478053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_22
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bc49e6af9b34d90800000000000000
+      internalID: -7114638501067043997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_23
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 0
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac2f931b37204720800000000000000
+      internalID: 2828303700674423968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_24
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 0
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f47379dbca36cdb0800000000000000
+      internalID: -4772062107951467272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_25
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 0
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eee40bfec8082d30800000000000000
+      internalID: 4406781920449720035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_26
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 0
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360f930270169e390800000000000000
+      internalID: -7788587397327228829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_27
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1ae594251aad6e0800000000000000
+      internalID: -1811958525272874586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_28
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994ebbc76850b3c0800000000000000
+      internalID: -4345876437589407343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_29
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 0
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70a6bbddf785ea30800000000000000
+      internalID: 4243947748249215101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_30
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 0
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1011f1e3e2e771d00800000000000000
+      internalID: 943361384033227009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_31
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 0
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe467f91c02d6a5c0800000000000000
+      internalID: -4204442252686695185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_32
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6405b40d558449d0800000000000000
+      internalID: -2790959234505440146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_33
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 0
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e075e53d7b5c820800000000000000
+      internalID: 2937956450377862772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_34
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 0
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee8428168a5f140800000000000000
+      internalID: 4752890118510538429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_35
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 0
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee515135ccac5a80800000000000000
+      internalID: -8476710435682165009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_36
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 0
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d0bca15fc8c1d40800000000000000
+      internalID: 5556471024612740490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_37
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 0
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ec3d58fea6ea170800000000000000
+      internalID: 8191602349208489583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_38
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 0
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981be345281207310800000000000000
+      internalID: 1400656327755084169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_39
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 0
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9ca0bd01bf5eda0800000000000000
+      internalID: -5916046485668312623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_40
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 0
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4386dfe387ce21d0800000000000000
+      internalID: -3373539701375466674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_41
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 1
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584f7ffb4185d2390800000000000000
+      internalID: -7841514530038877051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_42
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 0
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde54f4319515a1b0800000000000000
+      internalID: -5646082844436177187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_43
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 0
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b169fc5a66c2cbde0800000000000000
+      internalID: -1316128171718896101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_44
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 0
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923ccddd76de04bd0800000000000000
+      internalID: -2647855550534204631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_45
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 0
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e6f188a8a101a0800000000000000
+      internalID: -6845004516938030446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_LightHammer_46
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 0
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d326535e0ebf240800000000000000
+      internalID: 4826698700705381764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

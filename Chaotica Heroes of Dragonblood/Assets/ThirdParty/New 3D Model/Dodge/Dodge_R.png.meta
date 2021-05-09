@@ -1,0 +1,1332 @@
+fileFormatVersion: 2
+guid: 35f4e875358a322499223743c694f204
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7013439067203446581
+    second: Dodge_R_0
+  - first:
+      213: -1417858814866162780
+    second: Dodge_R_1
+  - first:
+      213: -4561111844514512236
+    second: Dodge_R_2
+  - first:
+      213: -1055888292986435215
+    second: Dodge_R_3
+  - first:
+      213: 6033874502217898183
+    second: Dodge_R_4
+  - first:
+      213: -5986113207590667555
+    second: Dodge_R_5
+  - first:
+      213: -8239607363567644992
+    second: Dodge_R_6
+  - first:
+      213: -7556581912937952211
+    second: Dodge_R_7
+  - first:
+      213: -732631243215654326
+    second: Dodge_R_8
+  - first:
+      213: 4269429439720028860
+    second: Dodge_R_9
+  - first:
+      213: 3499685349395900960
+    second: Dodge_R_10
+  - first:
+      213: 6243699760614585879
+    second: Dodge_R_11
+  - first:
+      213: 5517529722980927114
+    second: Dodge_R_12
+  - first:
+      213: 4452755574330021068
+    second: Dodge_R_13
+  - first:
+      213: 285889356970474741
+    second: Dodge_R_14
+  - first:
+      213: 7030846536747623883
+    second: Dodge_R_15
+  - first:
+      213: -7204180817857009224
+    second: Dodge_R_16
+  - first:
+      213: -3449014977344818086
+    second: Dodge_R_17
+  - first:
+      213: -2956966729344940607
+    second: Dodge_R_18
+  - first:
+      213: -3511039030901567012
+    second: Dodge_R_19
+  - first:
+      213: -6537947819216916525
+    second: Dodge_R_20
+  - first:
+      213: -7986101225955045775
+    second: Dodge_R_21
+  - first:
+      213: -2575190877199573497
+    second: Dodge_R_22
+  - first:
+      213: 1440144672996556416
+    second: Dodge_R_23
+  - first:
+      213: -6962865016563009489
+    second: Dodge_R_24
+  - first:
+      213: 7613001840319011434
+    second: Dodge_R_25
+  - first:
+      213: -7949445720650435704
+    second: Dodge_R_26
+  - first:
+      213: -6784686761761012158
+    second: Dodge_R_27
+  - first:
+      213: 8589503101509665899
+    second: Dodge_R_28
+  - first:
+      213: 1414468038870684887
+    second: Dodge_R_29
+  - first:
+      213: 6804380826828865150
+    second: Dodge_R_30
+  - first:
+      213: 1983554218456992097
+    second: Dodge_R_31
+  - first:
+      213: 8209536480135353577
+    second: Dodge_R_32
+  - first:
+      213: -3840091532723548007
+    second: Dodge_R_33
+  - first:
+      213: -8996393873325984307
+    second: Dodge_R_34
+  - first:
+      213: -669970406315274558
+    second: Dodge_R_35
+  - first:
+      213: -1870150897450244953
+    second: Dodge_R_36
+  - first:
+      213: 6647690061364371833
+    second: Dodge_R_37
+  - first:
+      213: 6829374025084652529
+    second: Dodge_R_38
+  - first:
+      213: -7491269902571706951
+    second: Dodge_R_39
+  - first:
+      213: 362649007376065879
+    second: Dodge_R_40
+  - first:
+      213: 7913873693808089690
+    second: Dodge_R_41
+  - first:
+      213: 3537855240899051058
+    second: Dodge_R_42
+  - first:
+      213: -1364111055077097997
+    second: Dodge_R_43
+  - first:
+      213: 5526970436539415967
+    second: Dodge_R_44
+  - first:
+      213: -4704765394004773072
+    second: Dodge_R_45
+  - first:
+      213: 5095487786019771527
+    second: Dodge_R_46
+  - first:
+      213: 6194830624566805607
+    second: Dodge_R_47
+  - first:
+      213: -1106140872272523070
+    second: Dodge_R_48
+  - first:
+      213: -3091861921360345156
+    second: Dodge_R_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dodge_R_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8dd71c3524bae90800000000000000
+      internalID: -7013439067203446581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abfe368be0c25ce0800000000000000
+      internalID: -1417858814866162780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492c2e671fca3b0c0800000000000000
+      internalID: -4561111844514512236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179cc0e113bb851f0800000000000000
+      internalID: -1055888292986435215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c81cf314e0acb350800000000000000
+      internalID: 6033874502217898183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 7
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddab844e0cd0deca0800000000000000
+      internalID: -5986113207590667555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 10
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8bd512c807ad80800000000000000
+      internalID: -8239607363567644992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 11
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c013369c0a12790800000000000000
+      internalID: -7556581912937952211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 15
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4237c414cb25d5f0800000000000000
+      internalID: -732631243215654326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 19
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba7b1c747f004b30800000000000000
+      internalID: 4269429439720028860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 20
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aa16c7841619030800000000000000
+      internalID: 3499685349395900960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 20
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716bf9b0ad316a650800000000000000
+      internalID: 6243699760614585879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_12
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 20
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8600f7cc04329c40800000000000000
+      internalID: 5517529722980927114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 20
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4d4976a9d5bcd30800000000000000
+      internalID: 4452755574330021068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 20
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc3a4ffadea7f300800000000000000
+      internalID: 285889356970474741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_15
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 19
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5a0259ca5929160800000000000000
+      internalID: 7030846536747623883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_16
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 19
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b923fd27bb950c90800000000000000
+      internalID: -7204180817857009224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_17
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 18
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a543c5ad623a220d0800000000000000
+      internalID: -3449014977344818086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_18
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 18
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c50fb42d6eb6f6d0800000000000000
+      internalID: -2956966729344940607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 17
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1949a8a98464fc0800000000000000
+      internalID: -3511039030901567012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 17
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df2983191b8445a0800000000000000
+      internalID: -6537947819216916525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 16
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e43a64f3bab2190800000000000000
+      internalID: -7986101225955045775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 16
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e51b78a85134cd0800000000000000
+      internalID: -2575190877199573497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 14
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e712b23fb6cf310800000000000000
+      internalID: 1440144672996556416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_24
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 13
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2874c4882fee5f90800000000000000
+      internalID: -6962865016563009489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_25
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 12
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a1c9e96d0d6a960800000000000000
+      internalID: 7613001840319011434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_26
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 12
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883b16b2c35eda190800000000000000
+      internalID: -7949445720650435704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_27
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 11
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24680f44653f7d1a0800000000000000
+      internalID: -6784686761761012158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_28
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 11
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64899acf8b043770800000000000000
+      internalID: 8589503101509665899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_29
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 10
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4d70bef2331a310800000000000000
+      internalID: 1414468038870684887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_30
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 9
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7efc939f440e6e50800000000000000
+      internalID: 6804380826828865150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_31
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 9
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1694bd76d00078b10800000000000000
+      internalID: 1983554218456992097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_32
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 8
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e41415cee12ee170800000000000000
+      internalID: 8209536480135353577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_33
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 7
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990170fb81145bac0800000000000000
+      internalID: -3840091532723548007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_34
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 6
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc577e8ef63662380800000000000000
+      internalID: -8996393873325984307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_35
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 6
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cecd811779c3b6f0800000000000000
+      internalID: -669970406315274558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_36
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 5
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4a911daa3eb06e0800000000000000
+      internalID: -1870150897450244953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_37
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 4
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971a48cc3e6514c50800000000000000
+      internalID: 6647690061364371833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_38
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 3
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb43730e7fc6ce50800000000000000
+      internalID: 6829374025084652529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_39
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 2
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b563acc6b9a90890800000000000000
+      internalID: -7491269902571706951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_40
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 1
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7556ccec953680500800000000000000
+      internalID: 362649007376065879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_41
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5dbce13ab3dd60800000000000000
+      internalID: 7913873693808089690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_42
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 0
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eba84e89cf81130800000000000000
+      internalID: 3537855240899051058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_43
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 0
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd32f70934b11de0800000000000000
+      internalID: -1364111055077097997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_44
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 0
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d7402345eb3bc40800000000000000
+      internalID: 5526970436539415967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_45
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 0
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0377bc21dc055beb0800000000000000
+      internalID: -4704765394004773072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_46
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 0
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784dc03f42fc6b640800000000000000
+      internalID: 5095487786019771527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_47
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 0
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640405a1a578f550800000000000000
+      internalID: 6194830624566805607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_48
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 0
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0d7acbcb236a0f0800000000000000
+      internalID: -1106140872272523070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_R_49
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 0
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb782c2c6ff7715d0800000000000000
+      internalID: -3091861921360345156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

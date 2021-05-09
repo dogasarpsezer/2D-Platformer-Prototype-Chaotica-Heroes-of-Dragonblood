@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemName: Light Hammer
   itemPrice: 2
-  itemSprite: {fileID: 21300000, guid: 35fe7a9554e4eb644b8d0527cf487b69, type: 3}
+  itemSprite: {fileID: 21300000, guid: c7c9f44b84a14ba4897dcfc939e3ab0e, type: 3}
   WeaponType: 0
   WeaponDamageType: 4
   weaponDamageLight: 4
