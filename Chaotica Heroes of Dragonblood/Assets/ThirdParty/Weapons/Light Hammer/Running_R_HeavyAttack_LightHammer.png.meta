@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 52dd7d7130fb74f4fa6db0d882447492
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4412302680703931943
+    second: Running_R_HeavyAttack_LightHammer_0
+  - first:
+      213: 7878363703867807198
+    second: Running_R_HeavyAttack_LightHammer_1
+  - first:
+      213: 5828235411252765132
+    second: Running_R_HeavyAttack_LightHammer_2
+  - first:
+      213: -8602391019451473876
+    second: Running_R_HeavyAttack_LightHammer_3
+  - first:
+      213: -8923670894384662429
+    second: Running_R_HeavyAttack_LightHammer_4
+  - first:
+      213: 4862053282929591958
+    second: Running_R_HeavyAttack_LightHammer_5
+  - first:
+      213: -9165742505810322138
+    second: Running_R_HeavyAttack_LightHammer_6
+  - first:
+      213: -3759293006310315374
+    second: Running_R_HeavyAttack_LightHammer_7
+  - first:
+      213: 8776969557631221154
+    second: Running_R_HeavyAttack_LightHammer_8
+  - first:
+      213: 2762508779820903041
+    second: Running_R_HeavyAttack_LightHammer_9
+  - first:
+      213: 4996343606153339978
+    second: Running_R_HeavyAttack_LightHammer_10
+  - first:
+      213: 1387114572223532638
+    second: Running_R_HeavyAttack_LightHammer_11
+  - first:
+      213: -228489102409972780
+    second: Running_R_HeavyAttack_LightHammer_12
+  - first:
+      213: 4200222160036022089
+    second: Running_R_HeavyAttack_LightHammer_13
+  - first:
+      213: 2719792484684220716
+    second: Running_R_HeavyAttack_LightHammer_14
+  - first:
+      213: -2719009995846475150
+    second: Running_R_HeavyAttack_LightHammer_15
+  - first:
+      213: 1214429539578314967
+    second: Running_R_HeavyAttack_LightHammer_16
+  - first:
+      213: -4771397554471362003
+    second: Running_R_HeavyAttack_LightHammer_17
+  - first:
+      213: -8104826571848141879
+    second: Running_R_HeavyAttack_LightHammer_18
+  - first:
+      213: 2283924451579975044
+    second: Running_R_HeavyAttack_LightHammer_19
+  - first:
+      213: -4021443811276433330
+    second: Running_R_HeavyAttack_LightHammer_20
+  - first:
+      213: -7119624032250084009
+    second: Running_R_HeavyAttack_LightHammer_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9632bd61a54c2c0800000000000000
+      internalID: -4412302680703931943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed51f5c1c02955d60800000000000000
+      internalID: 7878363703867807198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1e21b2a3d02e050800000000000000
+      internalID: 5828235411252765132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20a59af1fa2e9880800000000000000
+      internalID: -8602391019451473876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368b5b7e990c82480800000000000000
+      internalID: -8923670894384662429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6964a0853bb797340800000000000000
+      internalID: 4862053282929591958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d1a7ec0cdbcc080800000000000000
+      internalID: -9165742505810322138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a6348adee44dbc0800000000000000
+      internalID: -3759293006310315374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adb60f6f4f0ec970800000000000000
+      internalID: 8776969557631221154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 0
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a6f1e4917665620800000000000000
+      internalID: 2762508779820903041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44609cb904965540800000000000000
+      internalID: 4996343606153339978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec62caa55004310800000000000000
+      internalID: 1387114572223532638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 0
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d34ec73f5e34dcf0800000000000000
+      internalID: -228489102409972780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_13
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947cba20dcf2a4a30800000000000000
+      internalID: 4200222160036022089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_14
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c294160dad4aeb520800000000000000
+      internalID: 2719792484684220716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_15
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a5d090d2244ad0800000000000000
+      internalID: -2719009995846475150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_16
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 3
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d08e4f5b358ad010800000000000000
+      internalID: 1214429539578314967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_17
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d222193443798cdb0800000000000000
+      internalID: -4771397554471362003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_18
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 0
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c338d29c2fd58f80800000000000000
+      internalID: -8104826571848141879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_19
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 0
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485d04e103122bf10800000000000000
+      internalID: 2283924451579975044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_20
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48dca00926f038c0800000000000000
+      internalID: -4021443811276433330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running_R_HeavyAttack_LightHammer_21
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755466ff9a3023d90800000000000000
+      internalID: -7119624032250084009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
