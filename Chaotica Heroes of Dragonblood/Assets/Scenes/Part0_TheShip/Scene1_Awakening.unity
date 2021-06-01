@@ -140,7 +140,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &45786914
 RectTransform:
   m_ObjectHideFlags: 0
@@ -512,12 +512,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8163e00b8318f404c95d485019bacd46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerItemComponentManager: {fileID: 0}
   weaponObject: {fileID: 11400000, guid: eafbe17fe9974114898080519b328603, type: 2}
-  weaponSprite: {fileID: 0}
-  weaponRigidBody: {fileID: 0}
-  boxCollider: {fileID: 0}
-  playerTransform: {fileID: 0}
-  playerTransformDistanceToPickUp: 0
 --- !u!1 &343491287
 GameObject:
   m_ObjectHideFlags: 0
@@ -567,6 +563,7 @@ GameObject:
   - component: {fileID: 382150662}
   - component: {fileID: 382150660}
   - component: {fileID: 382150663}
+  - component: {fileID: 382150661}
   m_Layer: 7
   m_Name: Light Hammer
   m_TagString: Untagged
@@ -600,12 +597,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8163e00b8318f404c95d485019bacd46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerItemComponentManager: {fileID: 0}
   weaponObject: {fileID: 11400000, guid: 9211b84512762584492b590aec031014, type: 2}
-  weaponSprite: {fileID: 0}
-  weaponRigidBody: {fileID: 0}
-  boxCollider: {fileID: 0}
-  playerTransform: {fileID: 0}
-  playerTransformDistanceToPickUp: 1.25
 --- !u!61 &382150660
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -632,6 +625,23 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.4038105, y: 0.27313945}
   m_EdgeRadius: 0
+--- !u!114 &382150661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 382150657}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65f48c852f91e96408e23b502f66eb77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 0}
+  itemRigidBody: {fileID: 0}
+  boxCollider: {fileID: 0}
+  playerTransform: {fileID: 0}
+  playerTransformDistanceToPickUp: 1.25
 --- !u!212 &382150662
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1470,7 +1480,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &777997206
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1600,7 +1610,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 300, y: -125}
+  m_AnchoredPosition: {x: 294.8, y: -177.4}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5000002}
 --- !u!114 &852931674
@@ -1855,6 +1865,7 @@ GameObject:
   - component: {fileID: 1054453703}
   - component: {fileID: 1054453702}
   - component: {fileID: 1054453701}
+  - component: {fileID: 1054453704}
   m_Layer: 7
   m_Name: Health Potion
   m_TagString: Untagged
@@ -1874,12 +1885,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e2d7fce0bbf58c4082c98388f2d70a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerItemComponentManager: {fileID: 0}
   consumableObject: {fileID: 11400000, guid: ba76c0c9d6d79fb4f9ab99a65e53e5bd, type: 2}
-  consumableSprite: {fileID: 0}
-  consumableRigidBody: {fileID: 0}
-  boxCollider: {fileID: 0}
-  playerTransform: {fileID: 0}
-  playerTransformDistanceToPickUp: 1.25
 --- !u!4 &1054453700
 Transform:
   m_ObjectHideFlags: 0
@@ -1992,6 +1999,23 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1054453704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1054453698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65f48c852f91e96408e23b502f66eb77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 0}
+  itemRigidBody: {fileID: 0}
+  boxCollider: {fileID: 0}
+  playerTransform: {fileID: 0}
+  playerTransformDistanceToPickUp: 1.25
 --- !u!1 &1071590589
 GameObject:
   m_ObjectHideFlags: 0
@@ -3176,7 +3200,7 @@ GameObject:
   - component: {fileID: 1570599993}
   - component: {fileID: 1570599992}
   m_Layer: 0
-  m_Name: Empty
+  m_Name: Unarmed (Deneme)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3194,12 +3218,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e2d7fce0bbf58c4082c98388f2d70a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerItemComponentManager: {fileID: 0}
   consumableObject: {fileID: 11400000, guid: 9f73d081ec8bcdc4b83f9a9219ef4658, type: 2}
-  consumableSprite: {fileID: 0}
-  consumableRigidBody: {fileID: 0}
-  boxCollider: {fileID: 0}
-  playerTransform: {fileID: 0}
-  playerTransformDistanceToPickUp: 0
 --- !u!4 &1570599993
 Transform:
   m_ObjectHideFlags: 0
@@ -4114,7 +4134,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 33}
+  m_AnchoredPosition: {x: 0, y: -0.1}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2142321158

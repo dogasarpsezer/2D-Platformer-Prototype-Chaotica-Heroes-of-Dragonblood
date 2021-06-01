@@ -37,7 +37,7 @@ public class ItemComponentManager : MonoBehaviour
     public void PlayerDistance()
     {
         //Debug.Log((playerTransform.position - transform.position).sqrMagnitude);
-        if((playerTransform.position - transform.position).sqrMagnitude < playerTransformDistanceToPickUp)
+        if((playerTransform.position - transform.position).sqrMagnitude < playerTransformDistanceToPickUp * playerTransformDistanceToPickUp)
         {
             Debug.Log("Press E to pick up");
             isPickable = true;
