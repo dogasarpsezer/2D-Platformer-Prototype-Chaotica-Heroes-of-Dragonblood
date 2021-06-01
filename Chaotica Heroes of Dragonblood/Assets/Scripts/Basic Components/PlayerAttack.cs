@@ -88,6 +88,7 @@ public class PlayerAttack : MonoBehaviour
                 }
             }
         }
+
         //Weapon Light Attack rate will prevent spamming and every weapon will have its own attack delay
         if(!isAttackLight)
         {
@@ -103,7 +104,7 @@ public class PlayerAttack : MonoBehaviour
     void PlayerHeavyAttack()
     {
         //Play the heavy attack animation when pressed to left mouse button and hold for the time of the heavy trigger, cannot attack if the player is doing the action Dodge
-        if(Input.GetMouseButtonUp(0))
+        if(Input.GetMouseButtonUp(0) && !playerAnimator.GetBool("Jump"))
         {
             if(Time.time >= mouseHoldTimer + currentActiveWeaponObject.GetHeavyAttackMouseHoldTime()  && playerStamina.GetCharacterStamina() > currentActiveWeaponObject.GetStaminaDecayHeavy())
             {

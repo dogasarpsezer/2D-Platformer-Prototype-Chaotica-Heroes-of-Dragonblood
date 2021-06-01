@@ -32,6 +32,9 @@ public class CharacterMovement : MonoBehaviour
     [SerializeField]
     [Range(0f,1f)]
     private float jumpCooldown = 0.2f;
+    [SerializeField]
+    [Range(0f,0.5f)]
+    private float jumpMinTimer;
     [Header("Dodge")]
     [SerializeField]
     [Range(0f,30f)]
@@ -149,7 +152,7 @@ public class CharacterMovement : MonoBehaviour
             jumpTimer += Time.deltaTime;
 
             //To cut off jump speed if the characters jump time is over or if the player pulled their hand from the input key or if the player decided do dodge right after jump
-            if(jumpTimer >= jumpTimeLimit || Input.GetKeyUp(KeyCode.Space) || Input.GetKeyDown(KeyCode.LeftShift) || Input.GetKeyUp(KeyCode.JoystickButton0))
+            if(jumpTimer >= jumpTimeLimit || Input.GetKeyUp(KeyCode.Space) || Input.GetKeyDown(KeyCode.LeftShift) || Input.GetKeyUp(KeyCode.JoystickButton0) || playerAnim.GetBool("isAttackLight") || playerAnim.GetBool("isAttackHeavy"))
             {
                 jumpTimer = 0f;
                 jumpState = false;

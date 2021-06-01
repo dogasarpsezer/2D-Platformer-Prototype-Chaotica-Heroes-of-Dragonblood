@@ -9,6 +9,7 @@ public class GroundCheck : MonoBehaviour
     private bool isGrounded;
     private bool groundOff  =false;
     private float delayGroundenTimer = 0f;
+
     #endregion
 
     #region Update

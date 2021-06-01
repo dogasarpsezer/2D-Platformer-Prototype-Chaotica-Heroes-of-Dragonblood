@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: ae387c64ac8dcd44db4a54a404dbd90d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7122128915393640995
+    second: Fall_LightAttack_R_LightHammer_0
+  - first:
+      213: 9076272705566096549
+    second: Fall_LightAttack_R_LightHammer_1
+  - first:
+      213: -7698737889323337322
+    second: Fall_LightAttack_R_LightHammer_2
+  - first:
+      213: -8092706648706447806
+    second: Fall_LightAttack_R_LightHammer_3
+  - first:
+      213: 5059032165807304667
+    second: Fall_LightAttack_R_LightHammer_4
+  - first:
+      213: -6729704109032735672
+    second: Fall_LightAttack_R_LightHammer_5
+  - first:
+      213: 8713696716927069127
+    second: Fall_LightAttack_R_LightHammer_6
+  - first:
+      213: 4109762594983484102
+    second: Fall_LightAttack_R_LightHammer_7
+  - first:
+      213: 1207234416133829968
+    second: Fall_LightAttack_R_LightHammer_8
+  - first:
+      213: 2268343975784755194
+    second: Fall_LightAttack_R_LightHammer_9
+  - first:
+      213: -6806593602544818477
+    second: Fall_LightAttack_R_LightHammer_10
+  - first:
+      213: -1781143098308375391
+    second: Fall_LightAttack_R_LightHammer_11
+  - first:
+      213: 3576612706614419344
+    second: Fall_LightAttack_R_LightHammer_12
+  - first:
+      213: 3506230179456496201
+    second: Fall_LightAttack_R_LightHammer_13
+  - first:
+      213: -7403563532402673189
+    second: Fall_LightAttack_R_LightHammer_14
+  - first:
+      213: -8955049677740783138
+    second: Fall_LightAttack_R_LightHammer_15
+  - first:
+      213: 4061862573592581608
+    second: Fall_LightAttack_R_LightHammer_16
+  - first:
+      213: 876380816425621168
+    second: Fall_LightAttack_R_LightHammer_17
+  - first:
+      213: -9045667145412453847
+    second: Fall_LightAttack_R_LightHammer_18
+  - first:
+      213: -7154993530128494963
+    second: Fall_LightAttack_R_LightHammer_19
+  - first:
+      213: 9077124235801973244
+    second: Fall_LightAttack_R_LightHammer_20
+  - first:
+      213: 4361738987294930743
+    second: Fall_LightAttack_R_LightHammer_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 9
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a739e8382e6d260800000000000000
+      internalID: 7122128915393640995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac37d300f565fd70800000000000000
+      internalID: 9076272705566096549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 9
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699ba08eda6982590800000000000000
+      internalID: -7698737889323337322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 9
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24609641e2ee0bf80800000000000000
+      internalID: -8092706648706447806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 9
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf283e63fa453640800000000000000
+      internalID: 5059032165807304667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 9
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cfd91b4c94b92a0800000000000000
+      internalID: -6729704109032735672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbece43ff44de870800000000000000
+      internalID: 8713696716927069127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 9
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca9d214e4fc80930800000000000000
+      internalID: 4109762594983484102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 9
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05578462e45f0c010800000000000000
+      internalID: 1207234416133829968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 9
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff2c09e3d6ca7f10800000000000000
+      internalID: 2268343975784755194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 9
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6aedd6e2f1a81a0800000000000000
+      internalID: -6806593602544818477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 9
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acc03bf9cb1847e0800000000000000
+      internalID: -1781143098308375391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_12
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 9
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f96e49e4ea2a130800000000000000
+      internalID: 3576612706614419344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 9
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942324b75c1a8a030800000000000000
+      internalID: 3506230179456496201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_14
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 9
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd93a1b6132414990800000000000000
+      internalID: -7403563532402673189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_15
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 9
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c84493c549b380800000000000000
+      internalID: -8955049677740783138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_16
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 9
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e590717d72ae5830800000000000000
+      internalID: 4061862573592581608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_17
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 9
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6140395b7892c00800000000000000
+      internalID: 876380816425621168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_18
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 9
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ad44148a5577280800000000000000
+      internalID: -9045667145412453847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_19
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 9
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e097a0b4b54bc90800000000000000
+      internalID: -7154993530128494963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_20
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1d019566c68fd70800000000000000
+      internalID: 9077124235801973244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall_LightAttack_R_LightHammer_21
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 9
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737bfacdf72088c30800000000000000
+      internalID: 4361738987294930743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

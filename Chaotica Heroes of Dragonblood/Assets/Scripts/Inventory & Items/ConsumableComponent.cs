@@ -2,34 +2,38 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WeaponComponent : MonoBehaviour
+public class ConsumableComponent : MonoBehaviour
 {
     #region Unity Editor Seen Variables
     [SerializeField]
     private ItemComponentManager playerItemComponentManager;
     [SerializeField]
-    private WeaponObject weaponObject;
+    private ConsumableObject consumableObject;
+    [SerializeField]
     #endregion
 
-    #region Awake - Update
+    #region Update - Awake
+
     private void Awake() 
     {
-       playerItemComponentManager = GetComponent<ItemComponentManager>();
+        playerItemComponentManager = GetComponent<ItemComponentManager>();    
     }
+
     private void Update() 
     {
-        if(transform.parent != GameObject.Find("Weapons").transform)
+        if(transform.parent != GameObject.Find("Consumables").transform)
         {
             playerItemComponentManager.PlayerDistance();
-            playerItemComponentManager.PlayerPickUpObject("Weapons");
+            playerItemComponentManager.PlayerPickUpObject("Consumables");
         }
     }
     #endregion
 
     #region Getter Functions
-    public WeaponObject GetWeaponObjectDetails()
+    public ConsumableObject GetConsumableDetails()
     {
-        return weaponObject;
+        return consumableObject;
     }
     #endregion
+
 }
